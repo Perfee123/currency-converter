@@ -14,7 +14,7 @@ This use the free [open.er-api.com](https://open.er-api.com/) API to fetch real-
 ![alt text](image.png)
 
 ## Live Demo
-[**View Live on GitHub Pages**](https://perfee123.github.io/currency-converter)
+[**View Live on GitHub Pages**]( https://perfee123.github.io/currency-converter/)
 
 ## Languages
 - **HTML5** — structure
@@ -25,5 +25,5 @@ This use the free [open.er-api.com](https://open.er-api.com/) API to fetch real-
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Perfee123/currency-converter.git
+git clone  https://perfee123.github.io/currency-converter/git
 cd currency-converter
