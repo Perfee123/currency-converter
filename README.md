@@ -25,5 +25,5 @@ This use the free [open.er-api.com](https://open.er-api.com/) API to fetch real-
 
 ### 1. Clone the Repository
 ```bash
-git clone  https://perfee123.github.io/currency-converter/git
+git clone https://github.com/perfee123/currency-converter.git
 cd currency-converter
